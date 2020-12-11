@@ -173,6 +173,7 @@ include device/qcom/sepolicy_vndr/SEPolicy.mk
 BOARD_VENDOR_SEPOLICY_DIRS += $(DEVICE_PATH)/sepolicy/vendor
 
 # Verified Boot
+include build/make/target/board/BoardConfigPixelCommon.mk
 STOCK_SECURITY_PATCH := 2024-04-05 # Latest stock update available
 BOARD_AVB_ENABLE := true
 BOARD_AVB_VBMETA_SYSTEM := system system_ext product
