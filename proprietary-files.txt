@@ -65,6 +65,9 @@ vendor/lib/rfsa/adsp/weak_refs.so
 # ANT+
 vendor/lib64/hw/com.dsi.ant@1.0-impl.so
 
+# APN list
+product/etc/apns-conf.xml
+
 # Audio
 vendor/lib/libacdb-fts.so
 vendor/lib/libacdbloader.so
