@@ -2,3 +2,7 @@
 vendor.t2m.camera_main.sn      u:object_r:vendor_t2m_sys_prop:s0
 vendor.t2m.camera_aux.sn       u:object_r:vendor_t2m_sys_prop:s0
 vendor.t2m.camera_front.sn     u:object_r:vendor_t2m_sys_prop:s0
+
+# Tct Daemon
+ro.vendor.tct.                 u:object_r:vendor_tct_default_prop:s0
+ro.vendor.t2m.                 u:object_r:vendor_tct_default_prop:s0
