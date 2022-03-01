@@ -32,5 +32,8 @@
 /dev/block/platform/soc/1d84000\.ufshc/by-name/study                       u:object_r:vendor_modem_efs_partition_device:s0
 /dev/block/platform/soc/1d84000\.ufshc/by-name/studybk_[ab]                u:object_r:vendor_custom_ab_block_device:s0
 
+# Tct Daemon
+/vendor/bin/tctd                                                           u:object_r:tctd_exec:s0
+
 # Vibrator
 /vendor/bin/hw/vendor\.qti\.hardware\.vibrator\.service\.FP5               u:object_r:hal_vibrator_default_exec:s0
