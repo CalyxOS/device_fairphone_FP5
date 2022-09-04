@@ -41,3 +41,6 @@ persist.vendor.sensors.enable.mag_filter=true
 
 # Vendor
 ro.vendor.qti.va_aosp.support=1
+
+# Wi-Fi Display
+vendor.sys.video.disable.ubwc=1
