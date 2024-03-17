@@ -33,6 +33,7 @@ write_headers
 write_makefiles "${MY_DIR}/proprietary-files.txt" true
 
 append_firmware_calls_to_makefiles "${MY_DIR}/proprietary-firmware.txt"
+append_factory_calls_to_makefiles "${MY_DIR}/proprietary-firmware-factory.txt"
 
 # Finish
 write_footers

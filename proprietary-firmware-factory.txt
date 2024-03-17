@@ -1,0 +1,9 @@
+# Firmware from Fairphone/FP5/FP5:13/TKQ1.230127.002/TT4D:user/release-keys
+
+apdp.mbn:apdp.img
+zeros_5sectors.bin:ddr.img
+logfs_ufs_8mb.bin:logfs.img
+rtice.mbn:rtice.img
+storsec.mbn:storsec.img
+study.tar:study.img
+frp_for_factory.img:frp.img
