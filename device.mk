@@ -29,9 +29,6 @@ PRODUCT_PACKAGES += \
     update_verifier \
     update_engine_sideload
 
-# APEX
-$(call inherit-product, $(SRC_TARGET_DIR)/product/updatable_apex.mk)
-
 # Audio (Hardware)
 PRODUCT_PACKAGES += \
     audio.primary.lahaina \
