@@ -33,6 +33,24 @@
       "message": "This doesn\u0027t exist yet, I imagine you have a local change adding this. Could you upload that too? Thanks!",
       "revId": "d472ceaf29382913106730b89f405d46ff35d419",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a3df3c84_162e5e0e",
+        "filename": "extract-files.sh",
+        "patchSetId": 2
+      },
+      "lineNbr": 68,
+      "author": {
+        "id": 1000108
+      },
+      "writtenOn": "2024-04-02T17:52:08Z",
+      "side": 1,
+      "message": "It\u0027s part of the patchset: https://review.calyxos.org/c/CalyxOS/device_fairphone_FP5/+/25254/2/proprietary-files-factory.txt",
+      "parentUuid": "b98260b9_a16d6337",
+      "revId": "d472ceaf29382913106730b89f405d46ff35d419",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
