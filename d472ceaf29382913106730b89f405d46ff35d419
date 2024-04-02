@@ -51,6 +51,24 @@
       "parentUuid": "b98260b9_a16d6337",
       "revId": "d472ceaf29382913106730b89f405d46ff35d419",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ad593b0b_145805fd",
+        "filename": "extract-files.sh",
+        "patchSetId": 2
+      },
+      "lineNbr": 68,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2024-04-02T17:59:19Z",
+      "side": 1,
+      "message": "extract_factory function does not exist anywhere in these changes",
+      "parentUuid": "a3df3c84_162e5e0e",
+      "revId": "d472ceaf29382913106730b89f405d46ff35d419",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
