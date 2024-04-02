@@ -87,6 +87,24 @@
       "parentUuid": "ad593b0b_145805fd",
       "revId": "d472ceaf29382913106730b89f405d46ff35d419",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2e35108c_b7b009e2",
+        "filename": "extract-files.sh",
+        "patchSetId": 2
+      },
+      "lineNbr": 68,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-04-02T18:34:55Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "4d8ca7ec_aae0885b",
+      "revId": "d472ceaf29382913106730b89f405d46ff35d419",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
