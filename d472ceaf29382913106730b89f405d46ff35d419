@@ -69,6 +69,24 @@
       "parentUuid": "a3df3c84_162e5e0e",
       "revId": "d472ceaf29382913106730b89f405d46ff35d419",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "4d8ca7ec_aae0885b",
+        "filename": "extract-files.sh",
+        "patchSetId": 2
+      },
+      "lineNbr": 68,
+      "author": {
+        "id": 1000108
+      },
+      "writtenOn": "2024-04-02T18:16:12Z",
+      "side": 1,
+      "message": "Oh, my bad, I misunderstood the comment. Looks like I forgot to push this change, you can now find it here: https://review.calyxos.org/c/CalyxOS/platform_tools_extract-utils/+/25670",
+      "parentUuid": "ad593b0b_145805fd",
+      "revId": "d472ceaf29382913106730b89f405d46ff35d419",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
