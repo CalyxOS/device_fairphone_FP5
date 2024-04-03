@@ -55,6 +55,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "19d7606b_096bd4f2",
+        "filename": "sepolicy/vendor/tctd.te",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-04-03T18:00:39Z",
+      "side": 1,
+      "message": "Yes if bluetooth mac has been fine before, I guess?",
+      "parentUuid": "286d68f4_b94ea6d4",
+      "revId": "1fd5bc1e7f090090c6277e44dd08d2b24adb967a",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "8901c07a_9ad340f2",
         "filename": "sepolicy/vendor/tctd.te",
         "patchSetId": 1
