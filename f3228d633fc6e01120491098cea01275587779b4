@@ -3,6 +3,29 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "a029671e_a675460f",
+        "filename": "sepolicy/vendor/tctd.te",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2024-04-03T17:14:30Z",
+      "side": 1,
+      "message": "These look duplicative, do we need both?",
+      "range": {
+        "startLine": 8,
+        "startChar": 0,
+        "endLine": 9,
+        "endChar": 38
+      },
+      "revId": "f3228d633fc6e01120491098cea01275587779b4",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "83e67cef_4c61bc9f",
         "filename": "sepolicy/vendor/tctd.te",
         "patchSetId": 2
