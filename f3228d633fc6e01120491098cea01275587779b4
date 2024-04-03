@@ -89,6 +89,30 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "947f29a9_ec3d6279",
+        "filename": "sepolicy/vendor/tctd.te",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2024-04-03T18:56:15Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ee79a276_c2fe3fee",
+      "range": {
+        "startLine": 8,
+        "startChar": 0,
+        "endLine": 9,
+        "endChar": 38
+      },
+      "revId": "f3228d633fc6e01120491098cea01275587779b4",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "83e67cef_4c61bc9f",
@@ -120,6 +144,24 @@
       "side": 1,
       "message": "On FP4 I see \"ro.vendor.t2m.btmac            u:object_r:vendor_t2m_sys_prop:s0 \" which is what I suspect this may be for.",
       "parentUuid": "83e67cef_4c61bc9f",
+      "revId": "f3228d633fc6e01120491098cea01275587779b4",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "473cd2d6_15af17ca",
+        "filename": "sepolicy/vendor/tctd.te",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2024-04-03T18:56:15Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "438fbe12_6f056797",
       "revId": "f3228d633fc6e01120491098cea01275587779b4",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }

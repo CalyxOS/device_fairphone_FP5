@@ -71,6 +71,24 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "811627c0_82962d0c",
+        "filename": "sepolicy/vendor/tctd.te",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2024-04-03T18:56:15Z",
+      "side": 1,
+      "message": "I think so... we can always bring in those changes later.",
+      "parentUuid": "19d7606b_096bd4f2",
+      "revId": "1fd5bc1e7f090090c6277e44dd08d2b24adb967a",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "8901c07a_9ad340f2",

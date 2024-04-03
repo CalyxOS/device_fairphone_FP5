@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ebef2d97_e75fbdbd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2024-04-03T18:56:15Z",
+      "side": 1,
+      "message": "This should be the bare minimum, will confirm it works signed -user",
+      "revId": "e28dc67584ccd24afbd6e431ca6a3931d41a89c0",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
