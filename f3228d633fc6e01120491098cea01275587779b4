@@ -67,6 +67,30 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "ee79a276_c2fe3fee",
+        "filename": "sepolicy/vendor/tctd.te",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2024-04-03T18:02:39Z",
+      "side": 1,
+      "message": "Yep, audit2allow recommended `create` to me at a time when I didn\u0027t truly even have the other line taking effect, but didn\u0027t know for sure, so threw it in. Will remove.",
+      "parentUuid": "e440b3a5_a1381c88",
+      "range": {
+        "startLine": 8,
+        "startChar": 0,
+        "endLine": 9,
+        "endChar": 38
+      },
+      "revId": "f3228d633fc6e01120491098cea01275587779b4",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "83e67cef_4c61bc9f",
         "filename": "sepolicy/vendor/tctd.te",
         "patchSetId": 2
