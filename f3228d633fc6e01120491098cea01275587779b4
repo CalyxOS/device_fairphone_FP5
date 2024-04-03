@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "83e67cef_4c61bc9f",
+        "filename": "sepolicy/vendor/tctd.te",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2024-04-03T17:06:52Z",
+      "side": 1,
+      "message": "Not sure if this is needed or not",
+      "revId": "f3228d633fc6e01120491098cea01275587779b4",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
