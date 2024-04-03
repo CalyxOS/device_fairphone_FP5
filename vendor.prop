@@ -165,7 +165,7 @@ persist.vendor.radio.rat_on=combine
 ro.telephony.default_network=33,33
 
 # Security patch
-ro.vendor.kernel.security_patch=2024-03-05
+ro.vendor.kernel.security_patch=2024-04-05
 
 # Sensors
 persist.vendor.sensors.allow_non_default_discovery=true
