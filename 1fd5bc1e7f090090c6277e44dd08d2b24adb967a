@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a90aff55_28a96192",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2024-04-03T14:45:50Z",
+      "side": 1,
+      "message": "Needs selinux fixes, currently only working with permissive",
+      "revId": "1fd5bc1e7f090090c6277e44dd08d2b24adb967a",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
