@@ -51,6 +51,23 @@
       "parentUuid": "cf2ed9ea_f37c8398",
       "revId": "42ca3428b177381320f8b525460fca5248dcdba5",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "23d539a6_a9e75aa0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2024-05-22T21:03:53Z",
+      "side": 1,
+      "message": "Changing config_defaultPeakRefreshRate does not work in the same way?",
+      "revId": "42ca3428b177381320f8b525460fca5248dcdba5",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
