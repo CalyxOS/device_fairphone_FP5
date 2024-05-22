@@ -16,6 +16,23 @@
       "message": "Not confirmed or tested",
       "revId": "42ca3428b177381320f8b525460fca5248dcdba5",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cf2ed9ea_f37c8398",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2024-05-22T21:02:19Z",
+      "side": 1,
+      "message": "Whether this fixes the issue, I don\u0027t know for sure, but it does successfully have Smooth Display default to off for a fresh install, and it _should_ be the same for users who have never changed it or who are upgrading.\n\nTest: Just check the setting in Settings \u003e Display, it\u0027s off. Can also `adb logcat -v uid | grep \"renderFrameRate 90\"`, should only appear once at most early on, whereas `renderFrameRate 60` appears many times.",
+      "revId": "42ca3428b177381320f8b525460fca5248dcdba5",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
