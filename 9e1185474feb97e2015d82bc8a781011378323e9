@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8d60fdba_df9b850e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2024-05-23T13:19:35Z",
+      "side": 1,
+      "message": "Haven\u0027t tested, but this should have the same effect as the last one.",
+      "revId": "9e1185474feb97e2015d82bc8a781011378323e9",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
