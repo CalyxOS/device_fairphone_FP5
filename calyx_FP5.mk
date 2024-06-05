@@ -25,4 +25,8 @@ PRODUCT_SYSTEM_NAME := FP5
 PRODUCT_BUILD_PROP_OVERRIDES += \
     TARGET_PRODUCT=$(PRODUCT_SYSTEM_NAME)
 
+# Carrier config
+PRODUCT_PACKAGES += \
+    CarrierConfigMergedEntriesOverlay
+
 BUILD_FINGERPRINT := Fairphone/FP5/FP5:13/TKQ1.230127.002/TT4D:user/release-keys
