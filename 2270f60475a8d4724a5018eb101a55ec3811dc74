@@ -34,6 +34,24 @@
       "parentUuid": "49bf0c5f_c3920ce6",
       "revId": "2270f60475a8d4724a5018eb101a55ec3811dc74",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b1ff3b8c_fa4a5d2f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2024-06-14T22:35:20Z",
+      "side": 1,
+      "message": "5.4 is the only version that is affected and needs to be explicitly set to true or false. The build system checks for 5.4 GKI kernel and if it\u0027s based on android12-5.4 then UFFD GC is supported because it has the backports in place. QGKI 5.4 is based on android11-5.4 that doesn\u0027t have the backports, and since the kernel version string contains `qgki` instead of `android11` it fails to automatically detect this",
+      "parentUuid": "e5ba6a13_4114f203",
+      "revId": "2270f60475a8d4724a5018eb101a55ec3811dc74",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ],
   "submitRequirementResults": [
