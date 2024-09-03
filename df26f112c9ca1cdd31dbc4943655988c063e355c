@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2caa8d15_9efba2eb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-09-03T08:59:12Z",
+      "side": 1,
+      "message": "29230: FP5: Temporarily remove downloads | https://review.calyxos.org/c/CalyxOS/calyxos.org/+/29230",
+      "revId": "df26f112c9ca1cdd31dbc4943655988c063e355c",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
