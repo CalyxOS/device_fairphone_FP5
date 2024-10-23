@@ -170,7 +170,7 @@ BOARD_VENDOR_SEPOLICY_DIRS += $(DEVICE_PATH)/sepolicy/vendor
 
 # Verified Boot
 include build/make/target/board/BoardConfigPixelCommon.mk
-STOCK_SECURITY_PATCH := 2024-08-05 # Latest stock update available
+STOCK_SECURITY_PATCH := 2024-09-05 # Latest stock update available
 BOARD_AVB_ENABLE := true
 BOARD_AVB_VBMETA_SYSTEM := system system_ext product
 BOARD_AVB_VBMETA_SYSTEM_ALGORITHM := SHA256_RSA4096
