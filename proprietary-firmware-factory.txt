@@ -1,4 +1,4 @@
-# Firmware from Fairphone/FP5/FP5:14/UKQ1.230924.001/UT2E:user/release-keys
+# Firmware from Fairphone/FP5/FP5:14/UKQ1.230924.001/UT2H:user/release-keys
 
 apdp.mbn:apdp.img
 zeros_5sectors.bin:ddr.img
