@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4d79f5ab_c12f4835",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2025-04-07T14:42:44Z",
+      "side": 1,
+      "message": "`get_build_var BOARD_AVB_SYSTEM_ADD_HASHTREE_FOOTER_ARGS` and other things in this makefile",
+      "revId": "8f6ec0f2f31082bb6ef7142c2a58f4bce22f831c",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
