@@ -168,7 +168,7 @@ include device/qcom/sepolicy_vndr/SEPolicy.mk
 BOARD_VENDOR_SEPOLICY_DIRS += $(DEVICE_PATH)/sepolicy/vendor
 
 # Verified Boot
-STOCK_SECURITY_PATCH := 2025-02-05 # Latest stock update available
+STOCK_SECURITY_PATCH := 2025-03-05 # Latest stock update available
 BOARD_AVB_ENABLE := true
 BOARD_AVB_VBMETA_SYSTEM := system system_ext product
 BOARD_AVB_VBMETA_SYSTEM_ALGORITHM := SHA256_RSA4096
