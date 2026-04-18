@@ -147,7 +147,7 @@ TARGET_USERIMAGES_USE_F2FS := true
 ENABLE_VENDOR_RIL_SERVICE := true
 
 # Security patch level
-BOOT_SECURITY_PATCH := 2026-02-05
+BOOT_SECURITY_PATCH := 2026-03-05
 VENDOR_SECURITY_PATCH := $(BOOT_SECURITY_PATCH)
 
 # Calyx
@@ -158,7 +158,7 @@ include device/qcom/sepolicy_vndr/SEPolicy.mk
 BOARD_VENDOR_SEPOLICY_DIRS += $(DEVICE_PATH)/sepolicy/vendor
 
 # Verified Boot
-STOCK_SECURITY_PATCH := 2026-02-05 # Latest stock update available
+STOCK_SECURITY_PATCH := 2026-03-05 # Latest stock update available
 BOARD_AVB_ENABLE := true
 BOARD_AVB_VBMETA_SYSTEM := system system_ext product
 BOARD_AVB_VBMETA_SYSTEM_ALGORITHM := SHA256_RSA4096
